@@ -1,0 +1,71 @@
+{
+  "mediaId": "2bbdf504-2a4c-423d-9f86-99fa390fae39",
+  "framerate": 25.0,
+  "name": "Mary's Corner Shop - 20211020163000",
+  "startTime": "637703442050000000",
+  "endTime": "637703442265000000",
+  "width": 1920,
+  "height": 1080,
+  "events": [
+    {
+      "type": "motion",
+      "startTime": "637703442070000000",
+      "duration": 2000,
+      "eventId": "d2faf37d-6fb4-40b3-996c-1703044c724e"
+    },
+    {
+      "type": "motion",
+      "startTime": "637703442155040000",
+      "duration": 5200,
+      "eventId": "ced6f924-3f99-4819-a2a2-855c84130688",
+      "metadata": null
+    },
+    {
+      "type": "motion",
+      "startTime": "637703442195000000",
+      "duration": 1400,
+      "eventId": "96045716-f424-475e-a557-320eb4960aa6",
+      "metadata": {}
+    },
+    {
+      "type": "object",
+      "startTime": "637703442070000000",
+      "duration": 1550,
+      "eventId": "8e0c69e7-b2f0-457e-90da-3aa85e0afdd6",
+      "metadata": {
+        "confidence": 0.25,
+        "classification": "person"
+      }
+    },
+    {
+      "type": "object",
+      "startTime": "637703442120000000",
+      "duration": 7130,
+      "eventId": "79dd2cb7-7ab9-4022-a461-5ff8c8d9236c",
+      "metadata": {
+        "confidence": 0.84,
+        "classification": "car"
+      }
+    },
+    {
+      "type": "object",
+      "startTime": "637703442190000000",
+      "duration": 1490,
+      "eventId": "2299ff36-f3b5-4c9c-83c1-e0fd4ab88362",
+      "metadata": {
+        "confidence": 0.76,
+        "classification": "person"
+      }
+    },
+    {
+      "type": "object",
+      "startTime": "637703442230160000",
+      "duration": 3740,
+      "eventId": "6c9a2b55-c969-4bbb-8637-858e85338570",
+      "metadata": {
+        "confidence": 0.7,
+        "classification": "bicycle"
+      }
+    }
+  ]
+}
